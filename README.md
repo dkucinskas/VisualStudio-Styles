@@ -36,6 +36,8 @@ THE SOFTWARE.
 
 ## Author contact
 
-Darius Kuèinskas d.kucinskas@gmail.com, 
-https://github.com/dkucinskas/, 
-http://blog-of-darius.blogspot.com/
+Darius KuÄinskas 
+* d.kucinskas@gmail.com
+* https://github.com/dkucinskas/
+* http://blog-of-darius.blogspot.com/
+
