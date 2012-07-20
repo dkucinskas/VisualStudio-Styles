@@ -11,7 +11,7 @@
 					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontIsDefault="Yes">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x00555555" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Selected Text" Foreground="0x02000000" Background="0x00CCFFFF" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x00FF9C35" BoldFont="No"/>
 							<Item Name="Line Numbers" Foreground="0x00AAAAAA" Background="0x00ECECEC" BoldFont="No"/>
 							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00CCFFFF" BoldFont="Yes"/>
 							<Item Name="Comment" Foreground="0x00889999" Background="0x02000000" BoldFont="No"/>
